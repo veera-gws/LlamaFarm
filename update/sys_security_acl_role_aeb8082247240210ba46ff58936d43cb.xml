@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>connor.rust@snc</sys_created_by>
+        <sys_created_on>2024-02-26 20:02:00</sys_created_on>
+        <sys_id>aeb8082247240210ba46ff58936d43cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_llamafarm_farm.x_snc_llamafarm.farm_user</sys_name>
+        <sys_package display_value="LlamaFarm" source="x_snc_llamafarm">d874006e47e00210ba46ff58936d43cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LlamaFarm">d874006e47e00210ba46ff58936d43cc</sys_scope>
+        <sys_security_acl display_value="x_snc_llamafarm_farm">9eb8082247240210ba46ff58936d43c9</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_aeb8082247240210ba46ff58936d43cb</sys_update_name>
+        <sys_updated_by>connor.rust@snc</sys_updated_by>
+        <sys_updated_on>2024-02-26 20:02:00</sys_updated_on>
+        <sys_user_role display_value="x_snc_llamafarm.farm_user" name="x_snc_llamafarm.farm_user">b87580ae47e00210ba46ff58936d43cb</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

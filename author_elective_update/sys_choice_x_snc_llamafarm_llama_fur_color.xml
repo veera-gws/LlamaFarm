@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="fur_color" table="x_snc_llamafarm_llama" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>fur_color</element>
+            <name>x_snc_llamafarm_llama</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>connor.rust@snc</sys_created_by>
+            <sys_created_on>2024-02-26 20:13:24</sys_created_on>
+            <sys_id>a15b8ca247240210ba46ff58936d439a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>fur_color</sys_name>
+            <sys_package display_value="LlamaFarm" source="x_snc_llamafarm">d874006e47e00210ba46ff58936d43cc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="LlamaFarm">d874006e47e00210ba46ff58936d43cc</sys_scope>
+            <sys_update_name>sys_choice_x_snc_llamafarm_llama_fur_color</sys_update_name>
+            <sys_updated_by>connor.rust@snc</sys_updated_by>
+            <sys_updated_on>2024-02-26 20:13:24</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fur_color</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Black</label>
+            <language>en</language>
+            <name>x_snc_llamafarm_llama</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>connor.rust@snc</sys_created_by>
+            <sys_created_on>2024-02-26 20:13:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6d5b8ca247240210ba46ff58936d4399</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>connor.rust@snc</sys_updated_by>
+            <sys_updated_on>2024-02-26 20:13:43</sys_updated_on>
+            <value>black</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fur_color</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Brown</label>
+            <language>en</language>
+            <name>x_snc_llamafarm_llama</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>connor.rust@snc</sys_created_by>
+            <sys_created_on>2024-02-26 20:13:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>395bcca247240210ba46ff58936d431c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>connor.rust@snc</sys_updated_by>
+            <sys_updated_on>2024-02-26 20:13:48</sys_updated_on>
+            <value>brown</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fur_color</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Grey</label>
+            <language>en</language>
+            <name>x_snc_llamafarm_llama</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>connor.rust@snc</sys_created_by>
+            <sys_created_on>2024-02-26 20:13:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6e6bcca247240210ba46ff58936d43fd</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>connor.rust@snc</sys_updated_by>
+            <sys_updated_on>2024-02-26 20:13:54</sys_updated_on>
+            <value>grey</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fur_color</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>White</label>
+            <language>en</language>
+            <name>x_snc_llamafarm_llama</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>connor.rust@snc</sys_created_by>
+            <sys_created_on>2024-02-26 20:13:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>336b00e247240210ba46ff58936d4307</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>connor.rust@snc</sys_updated_by>
+            <sys_updated_on>2024-02-26 20:13:58</sys_updated_on>
+            <value>white</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

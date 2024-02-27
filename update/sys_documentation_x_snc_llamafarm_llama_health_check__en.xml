@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Llama Health Check" language="en" table="x_snc_llamafarm_llama_health_check">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Llama Health Check</label>
+            <language>en</language>
+            <name>x_snc_llamafarm_llama_health_check</name>
+            <plural>Llama Health Checks</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>connor.rust@snc</sys_created_by>
+            <sys_created_on>2024-02-26 20:11:46</sys_created_on>
+            <sys_id>a1fac4a247240210ba46ff58936d433a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Llama Health Check</sys_name>
+            <sys_package display_value="LlamaFarm" source="x_snc_llamafarm">d874006e47e00210ba46ff58936d43cc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="LlamaFarm">d874006e47e00210ba46ff58936d43cc</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_llamafarm_llama_health_check__en</sys_update_name>
+            <sys_updated_by>connor.rust@snc</sys_updated_by>
+            <sys_updated_on>2024-02-26 20:11:46</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
