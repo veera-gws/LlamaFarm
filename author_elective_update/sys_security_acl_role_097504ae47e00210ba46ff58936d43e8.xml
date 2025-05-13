@@ -41,7 +41,7 @@
         <update_guid_history>897504ae0ce00210579a917325ce12e9:-534454875</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_snc_llamafarm_farm.x_snc_llamafarm.farm_user">7e98c42247240210ba46ff58936d4331</sys_audit_delete>
+        <sys_audit_delete display_value="">7e98c42247240210ba46ff58936d4331</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>connor.rust@snc</sys_created_by>
         <sys_created_on>2024-02-26 20:01:29</sys_created_on>

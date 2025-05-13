@@ -52,7 +52,6 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>connor.rust@snc</sys_created_by>
         <sys_created_on>2024-02-26 20:15:22</sys_created_on>
-        <sys_id>ba4b0ca247240210ba46ff58936d43e3</sys_id>
         <sys_name>Deceased</sys_name>
         <sys_package display_value="LlamaFarm" source="x_snc_llamafarm">d874006e47e00210ba46ff58936d43cc</sys_package>
         <sys_policy/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="a68acc6247240210ba46ff58936d43e7" extends="task" label="Llama Health Check" max_length="40" name="x_snc_llamafarm_llama_health_check" type="collection">
-        <element label="Diagnoses" max_length="4000" name="diagnoses" type="journal"/>
         <element label="Llama" mandatory="true" max_length="32" name="llama" reference="x_snc_llamafarm_llama" type="reference"/>
+        <element label="Diagnoses" max_length="4000" name="diagnoses" type="journal"/>
     </element>
 </database>
