@@ -3,6 +3,7 @@
         <element label="DoD" max_length="40" name="death_date" type="glide_date"/>
         <element label="Height" max_length="40" name="height" type="string"/>
         <element default="javascript:new GlideDateTime().getDate();" label="DoB" max_length="40" name="birth_date" type="glide_date"/>
+        <element label="Col559654" max_length="40" name="col559654" type="string"/>
         <element choice="3" label="Fur Color" mandatory="true" max_length="40" name="fur_color" type="choice">
             <choice>
                 <element inactive_on_update="false" label="White" value="white"/>
