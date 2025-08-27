@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="34cf00a647240210ba46ff58936d437c" extends="cmdb_ci" label="Stall" max_length="40" name="x_snc_llamafarm_stall" type="collection">
-        <element label="Occupant" max_length="32" name="occupant" reference="x_snc_llamafarm_llama" type="reference"/>
         <element label="Farm" mandatory="true" max_length="32" name="farm" reference="x_snc_llamafarm_farm" type="reference"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Occupant" max_length="32" name="occupant" reference="x_snc_llamafarm_llama" type="reference"/>
     </element>
 </database>

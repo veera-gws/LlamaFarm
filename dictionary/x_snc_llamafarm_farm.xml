@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="3ca8082247240210ba46ff58936d43a5" extends="cmdb_ci" label="Farm" max_length="40" name="x_snc_llamafarm_farm" type="collection">
-        <element label="Col74" max_length="40" name="col74" type="string"/>
         <element label="Col40" max_length="40" name="col40" type="string"/>
         <element label="Col16" max_length="40" name="col16" type="string"/>
         <element label="Col22" max_length="40" name="col22" type="string"/>
+        <element label="Col74" max_length="40" name="col74" type="string"/>
     </element>
 </database>
