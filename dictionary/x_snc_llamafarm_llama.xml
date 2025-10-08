@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="8894c46e47e00210ba46ff58936d43c1" label="Llama" max_length="40" name="x_snc_llamafarm_llama" type="collection">
-        <element label="Col419985" max_length="40" name="col419985" type="string"/>
+        <element label="Col101549" max_length="40" name="col101549" type="string"/>
+        <element label="Col482603" max_length="40" name="col482603" type="string"/>
         <element label="DoD" max_length="40" name="death_date" type="glide_date"/>
         <element label="Height" max_length="40" name="height" type="string"/>
-        <element label="Col101549" max_length="40" name="col101549" type="string"/>
-        <element label="Col638800" max_length="40" name="col638800" type="string"/>
         <element default="javascript:new GlideDateTime().getDate();" label="DoB" max_length="40" name="birth_date" type="glide_date"/>
+        <element label="Col419985" max_length="40" name="col419985" type="string"/>
+        <element label="Col638800" max_length="40" name="col638800" type="string"/>
         <element label="Col242710" max_length="40" name="col242710" type="string"/>
         <element label="Col894263" max_length="40" name="col894263" type="string"/>
         <element choice="3" label="Fur Color" mandatory="true" max_length="40" name="fur_color" type="choice">
             <choice>
-                <element inactive_on_update="false" label="Black" value="black"/>
-                <element inactive_on_update="false" label="Brown" value="brown"/>
-                <element inactive_on_update="false" label="Grey" value="grey"/>
                 <element inactive_on_update="false" label="White" value="white"/>
+                <element inactive_on_update="false" label="Brown" value="brown"/>
+                <element inactive_on_update="false" label="Black" value="black"/>
+                <element inactive_on_update="false" label="Grey" value="grey"/>
             </choice>
         </element>
-        <element label="Col166031" max_length="40" name="col166031" type="string"/>
-        <element label="Col482603" max_length="40" name="col482603" type="string"/>
         <element label="Name" max_length="40" name="name" type="string"/>
         <element default="False" label="Deceased" max_length="40" name="deceased" type="boolean"/>
+        <element label="Col166031" max_length="40" name="col166031" type="string"/>
         <element label="Weight" max_length="20" name="weight" type="decimal"/>
     </element>
 </database>
