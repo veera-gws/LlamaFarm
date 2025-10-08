@@ -7,6 +7,7 @@
         <element label="Col638800" max_length="40" name="col638800" type="string"/>
         <element default="javascript:new GlideDateTime().getDate();" label="DoB" max_length="40" name="birth_date" type="glide_date"/>
         <element label="Col242710" max_length="40" name="col242710" type="string"/>
+        <element label="Col894263" max_length="40" name="col894263" type="string"/>
         <element choice="3" label="Fur Color" mandatory="true" max_length="40" name="fur_color" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Black" value="black"/>
