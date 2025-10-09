@@ -5,6 +5,7 @@
         <element label="Col101549" max_length="40" name="col101549" type="string"/>
         <element label="DoD" max_length="40" name="death_date" type="glide_date"/>
         <element label="Height" max_length="40" name="height" type="string"/>
+        <element label="Col662626" max_length="40" name="col662626" type="string"/>
         <element label="Col638800" max_length="40" name="col638800" type="string"/>
         <element label="Col166031" max_length="40" name="col166031" type="string"/>
         <element default="javascript:new GlideDateTime().getDate();" label="DoB" max_length="40" name="birth_date" type="glide_date"/>
