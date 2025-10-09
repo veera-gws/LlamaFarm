@@ -39,6 +39,7 @@
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
+        <read_only_option/>
         <read_roles/>
         <reference/>
         <reference_cascade_rule/>
@@ -52,6 +53,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>connor.rust@snc</sys_created_by>
         <sys_created_on>2024-02-26 20:15:22</sys_created_on>
+        <sys_id>47fac87cc0ec7210f877b3e2705e655d</sys_id>
         <sys_name>Deceased</sys_name>
         <sys_package display_value="LlamaFarm" source="x_snc_llamafarm">d874006e47e00210ba46ff58936d43cc</sys_package>
         <sys_policy/>
