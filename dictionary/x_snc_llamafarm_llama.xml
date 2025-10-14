@@ -24,6 +24,7 @@
                 <element inactive_on_update="false" label="Grey" value="grey"/>
             </choice>
         </element>
+        <element label="Col637603" max_length="40" name="col637603" type="string"/>
         <element label="Col126099" max_length="40" name="col126099" type="string"/>
         <element label="Col166031" max_length="40" name="col166031" type="string"/>
         <element label="Col275932" max_length="40" name="col275932" type="string"/>
