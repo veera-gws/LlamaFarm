@@ -37,6 +37,7 @@
                 <element inactive_on_update="false" label="Grey" value="grey"/>
             </choice>
         </element>
+        <element label="Col859184" max_length="40" name="col859184" type="string"/>
         <element label="Col80839" max_length="40" name="col80839" type="string"/>
         <element label="Col226396" max_length="40" name="col226396" type="string"/>
         <element label="Col101549" max_length="40" name="col101549" type="string"/>
