@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="8894c46e47e00210ba46ff58936d43c1" label="Llama" max_length="40" name="x_snc_llamafarm_llama" type="collection">
-        <element label="Col226396" max_length="40" name="col226396" type="string"/>
+        <element label="Col894263" max_length="40" name="col894263" type="string"/>
         <element label="Col637603" max_length="40" name="col637603" type="string"/>
-        <element label="Col74716" max_length="40" name="col74716" type="string"/>
-        <element label="Col426397" max_length="40" name="col426397" type="string"/>
-        <element label="Col419985" max_length="40" name="col419985" type="string"/>
+        <element label="Col585972" max_length="40" name="col585972" type="string"/>
+        <element label="Col242710" max_length="40" name="col242710" type="string"/>
         <element label="Col939928" max_length="40" name="col939928" type="string"/>
-        <element label="Col52894" max_length="40" name="col52894" type="string"/>
+        <element label="Col686275" max_length="40" name="col686275" type="string"/>
+        <element label="Col132735" max_length="40" name="col132735" type="string"/>
+        <element label="Col449900" max_length="40" name="col449900" type="string"/>
         <element label="DoD" max_length="40" name="death_date" type="glide_date"/>
         <element label="Height" max_length="40" name="height" type="string"/>
-        <element label="Col482603" max_length="40" name="col482603" type="string"/>
-        <element label="Col734793" max_length="40" name="col734793" type="string"/>
-        <element label="Col132735" max_length="40" name="col132735" type="string"/>
-        <element label="Col177240" max_length="40" name="col177240" type="string"/>
-        <element label="Col119531" max_length="40" name="col119531" type="string"/>
-        <element label="Col662626" max_length="40" name="col662626" type="string"/>
-        <element label="Col894263" max_length="40" name="col894263" type="string"/>
-        <element default="javascript:new GlideDateTime().getDate();" label="DoB" max_length="40" name="birth_date" type="glide_date"/>
-        <element label="Col126099" max_length="40" name="col126099" type="string"/>
-        <element label="Col950031" max_length="40" name="col950031" type="string"/>
-        <element label="Col386835" max_length="40" name="col386835" type="string"/>
-        <element label="Col585972" max_length="40" name="col585972" type="string"/>
-        <element label="Col220426" max_length="40" name="col220426" type="string"/>
-        <element label="Col729112" max_length="40" name="col729112" type="string"/>
-        <element label="Col304638" max_length="40" name="col304638" type="string"/>
-        <element label="Col686275" max_length="40" name="col686275" type="string"/>
+        <element label="Col52894" max_length="40" name="col52894" type="string"/>
         <element label="Col854164" max_length="40" name="col854164" type="string"/>
+        <element label="Col177240" max_length="40" name="col177240" type="string"/>
+        <element label="Col126099" max_length="40" name="col126099" type="string"/>
+        <element label="Col647912" max_length="40" name="col647912" type="string"/>
+        <element label="Col226396" max_length="40" name="col226396" type="string"/>
+        <element label="Col74716" max_length="40" name="col74716" type="string"/>
+        <element label="Col220426" max_length="40" name="col220426" type="string"/>
+        <element label="Col101549" max_length="40" name="col101549" type="string"/>
+        <element default="javascript:new GlideDateTime().getDate();" label="DoB" max_length="40" name="birth_date" type="glide_date"/>
+        <element label="Col950031" max_length="40" name="col950031" type="string"/>
+        <element label="Col409102" max_length="40" name="col409102" type="string"/>
+        <element label="Col426397" max_length="40" name="col426397" type="string"/>
+        <element label="Col729112" max_length="40" name="col729112" type="string"/>
+        <element label="Col482603" max_length="40" name="col482603" type="string"/>
         <element label="Col638800" max_length="40" name="col638800" type="string"/>
-        <element label="Col166031" max_length="40" name="col166031" type="string"/>
-        <element label="Col449900" max_length="40" name="col449900" type="string"/>
+        <element label="Col119531" max_length="40" name="col119531" type="string"/>
+        <element label="Col275932" max_length="40" name="col275932" type="string"/>
         <element choice="3" label="Fur Color" mandatory="true" max_length="40" name="fur_color" type="choice">
             <choice>
-                <element inactive_on_update="false" label="Grey" value="grey"/>
-                <element inactive_on_update="false" label="White" value="white"/>
                 <element inactive_on_update="false" label="Black" value="black"/>
+                <element inactive_on_update="false" label="White" value="white"/>
                 <element inactive_on_update="false" label="Brown" value="brown"/>
+                <element inactive_on_update="false" label="Grey" value="grey"/>
             </choice>
         </element>
-        <element label="Col647912" max_length="40" name="col647912" type="string"/>
-        <element label="Col409102" max_length="40" name="col409102" type="string"/>
+        <element label="Col734793" max_length="40" name="col734793" type="string"/>
+        <element label="Col166031" max_length="40" name="col166031" type="string"/>
+        <element label="Col662626" max_length="40" name="col662626" type="string"/>
+        <element label="Col386835" max_length="40" name="col386835" type="string"/>
         <element label="Col148583" max_length="40" name="col148583" type="string"/>
-        <element label="Col242710" max_length="40" name="col242710" type="string"/>
-        <element label="Col101549" max_length="40" name="col101549" type="string"/>
-        <element label="Col275932" max_length="40" name="col275932" type="string"/>
+        <element label="Col419985" max_length="40" name="col419985" type="string"/>
+        <element label="Col304638" max_length="40" name="col304638" type="string"/>
         <element label="Name" max_length="40" name="name" type="string"/>
         <element default="False" label="Deceased" max_length="40" name="deceased" type="boolean"/>
         <element label="Weight" max_length="20" name="weight" type="decimal"/>
