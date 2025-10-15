@@ -6,6 +6,7 @@
         <element label="Col426397" max_length="40" name="col426397" type="string"/>
         <element label="Col419985" max_length="40" name="col419985" type="string"/>
         <element label="Col939928" max_length="40" name="col939928" type="string"/>
+        <element label="Col52894" max_length="40" name="col52894" type="string"/>
         <element label="DoD" max_length="40" name="death_date" type="glide_date"/>
         <element label="Height" max_length="40" name="height" type="string"/>
         <element label="Col482603" max_length="40" name="col482603" type="string"/>
