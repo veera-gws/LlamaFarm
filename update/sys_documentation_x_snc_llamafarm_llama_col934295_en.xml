@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="col934295" label="Col934295" language="en" table="x_snc_llamafarm_llama">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>col934295</element>
+            <help/>
+            <hint/>
+            <label>Col934295</label>
+            <language>en</language>
+            <name>x_snc_llamafarm_llama</name>
+            <plural>Col934295s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-15 23:46:01</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Col934295</sys_name>
+            <sys_package display_value="LlamaFarm" source="x_snc_llamafarm">d874006e47e00210ba46ff58936d43cc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="LlamaFarm">d874006e47e00210ba46ff58936d43cc</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_llamafarm_llama_col934295_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-15 23:46:01</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
