@@ -24,6 +24,7 @@
         <element label="Col894263" max_length="40" name="col894263" type="string"/>
         <element label="Col662626" max_length="40" name="col662626" type="string"/>
         <element label="Col127847" max_length="40" name="col127847" type="string"/>
+        <element label="Col616495" max_length="40" name="col616495" type="string"/>
         <element default="javascript:new GlideDateTime().getDate();" label="DoB" max_length="40" name="birth_date" type="glide_date"/>
         <element label="Col854164" max_length="40" name="col854164" type="string"/>
         <element label="Col934295" max_length="40" name="col934295" type="string"/>
