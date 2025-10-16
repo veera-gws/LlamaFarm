@@ -59,6 +59,7 @@
         <element label="Col317129" max_length="40" name="col317129" type="string"/>
         <element label="Col226396" max_length="40" name="col226396" type="string"/>
         <element label="Col421482" max_length="40" name="col421482" type="string"/>
+        <element label="Col383324" max_length="40" name="col383324" type="string"/>
         <element label="Name" max_length="40" name="name" type="string"/>
         <element default="False" label="Deceased" max_length="40" name="deceased" type="boolean"/>
         <element label="Weight" max_length="20" name="weight" type="decimal"/>
