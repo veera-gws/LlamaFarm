@@ -40,6 +40,7 @@
         <element label="Col126099" max_length="40" name="col126099" type="string"/>
         <element label="Col426397" max_length="40" name="col426397" type="string"/>
         <element label="Col449900" max_length="40" name="col449900" type="string"/>
+        <element label="Col759638" max_length="40" name="col759638" type="string"/>
         <element label="Col346314" max_length="40" name="col346314" type="string"/>
         <element label="Col686275" max_length="40" name="col686275" type="string"/>
         <element choice="3" label="Fur Color" mandatory="true" max_length="40" name="fur_color" type="choice">
