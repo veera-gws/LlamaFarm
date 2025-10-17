@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="8894c46e47e00210ba46ff58936d43c1" label="Llama" max_length="40" name="x_snc_llamafarm_llama" type="collection">
+        <element label="Col118352" max_length="40" name="col118352" type="string"/>
         <element label="Col242710" max_length="40" name="col242710" type="string"/>
         <element label="Col317129" max_length="40" name="col317129" type="string"/>
         <element label="Col638800" max_length="40" name="col638800" type="string"/>
@@ -17,6 +18,7 @@
         <element label="Height" max_length="40" name="height" type="string"/>
         <element label="Col686275" max_length="40" name="col686275" type="string"/>
         <element label="Col892648" max_length="40" name="col892648" type="string"/>
+        <element label="Col828228" max_length="40" name="col828228" type="string"/>
         <element label="Col386835" max_length="40" name="col386835" type="string"/>
         <element label="Col148583" max_length="40" name="col148583" type="string"/>
         <element label="Col859184" max_length="40" name="col859184" type="string"/>
@@ -38,6 +40,7 @@
         <element label="Col126163" max_length="40" name="col126163" type="string"/>
         <element label="Col101549" max_length="40" name="col101549" type="string"/>
         <element label="Col908132" max_length="40" name="col908132" type="string"/>
+        <element label="Col570437" max_length="40" name="col570437" type="string"/>
         <element label="Col216442" max_length="40" name="col216442" type="string"/>
         <element label="Col857428" max_length="40" name="col857428" type="string"/>
         <element label="Col755994" max_length="40" name="col755994" type="string"/>
