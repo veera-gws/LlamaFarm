@@ -54,6 +54,7 @@
         <element label="Col520263" max_length="40" name="col520263" type="string"/>
         <element label="Col275932" max_length="40" name="col275932" type="string"/>
         <element label="Col596415" max_length="40" name="col596415" type="string"/>
+        <element label="Col148088" max_length="40" name="col148088" type="string"/>
         <element label="Col616495" max_length="40" name="col616495" type="string"/>
         <element label="Col812314" max_length="40" name="col812314" type="string"/>
         <element label="Col935020" max_length="40" name="col935020" type="string"/>
