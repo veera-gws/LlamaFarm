@@ -33,6 +33,7 @@
         <element label="Col226396" max_length="40" name="col226396" type="string"/>
         <element label="Col126163" max_length="40" name="col126163" type="string"/>
         <element label="Col127847" max_length="40" name="col127847" type="string"/>
+        <element label="Col577585" max_length="40" name="col577585" type="string"/>
         <element label="Col585972" max_length="40" name="col585972" type="string"/>
         <element label="Col908132" max_length="40" name="col908132" type="string"/>
         <element label="Col383324" max_length="40" name="col383324" type="string"/>
